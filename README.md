@@ -15,5 +15,6 @@ scipy
 ```
 git clone git@github.com:manugarri/pydata_2016_talk_recommenders.git
 cd git@github.com:manugarri/pydata_2016_talk_recommenders.git
+gunzip assets/reddit.db.gz
 jupyter notebook
 ```
