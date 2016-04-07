@@ -28,7 +28,7 @@ div#header, div#site {
     <script>
       require.config({
           
-          urlArgs: "v=20160407111341",
+          urlArgs: "v=20160407210318",
           
           baseUrl: '/static/',
           paths: {
